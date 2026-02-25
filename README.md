@@ -1,2 +1,5 @@
 # THE-CERVENJAK-HYBRID-REASONING-ARCHITECTURE
 AI is entering domains where failure is unacceptable, yet LLMs remain probabilistic and hard to audit. This paper introduces the Cervenjak Hybrid Reasoning Architecture, combining deterministic logic, recency weighted fact governance, and constrained LLM reasoning to enable traceable, regulator aligned AI for safety critical systems.
+
+ABSTRACT
+AI systems are rapidly entering domains where failure is unacceptable — defence, aviation, energy, emergency response, and regulated infrastructure. Yet today’s large language models (LLMs) are inherently probabilistic, non deterministic, and difficult to audit. This white paper introduces a novel hybrid architecture that fuses deterministic logic, recency weighted fact governance, and constrained LLM reasoning into a unified safety critical framework. The approach — termed the Cervenjak Hybrid Reasoning Architecture (CHRA) — provides a structured, traceable, and regulator aligned method for deploying AI in high assurance environments. A neutral descriptor, Deterministic–LLM Hybrid Safety Architecture (DLHSA), is also provided for standards adoption.
